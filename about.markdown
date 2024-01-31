@@ -9,3 +9,5 @@ Este espacio es dedicado para la presentación de informes y proyectos del curso
 Nombre: Ángel Andrés Godoy Valdéz
 
 Carnet: 202113539
+
+Practicas Iniciales Sección "C"
