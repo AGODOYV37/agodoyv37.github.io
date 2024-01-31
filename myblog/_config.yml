@@ -21,12 +21,11 @@
 title: Practicas Iniciales 
 email: agodoyvaldez@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Mi nombre es Angel Godoy, bienvenidos a mi blog personal! Soy un estudiante de la Universidad San Carlos de Guatemala, en la carrera
-  de Ingenieria en Ciencias y Sistemas, esta plataforma es una forma de compartir mi trabajo y progreso con aquellos interesados en las ciencias
-  computacionales. 
+  Mi nombre es Ángel Godoy, bienvenido a mi blog personal. Soy estudiante de la facultad de ingeniería de la Universidad San Carlos de Guatemala
+  en la escuela de Ciencias y Sistemas. Este blog es un plataforma en la cual comparto mi trabajo para aquellos interesados y deseosos de aprender.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  AGODOYV37
+github_username:  AFEX
 
 # Build settings
 theme: minima
