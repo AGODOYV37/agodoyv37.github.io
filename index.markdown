@@ -9,10 +9,20 @@ En la era digital actual, las computadoras se han convertido en herramientas ind
 El propósito del presente manual es ayudar como apoyo a aquellos usuarios los cuales son inexpertos en el mantenimiento de equipos, ya que por lo regular se ignora el hecho de que las máquinas deben ser cuidadas luego de haber sido ensambladas, y por temor a arruinar o no saber cómo realizar los procesos, se deja de lado y los componentes se deterioran y con ello baja el rendimiento de la computadora. 
 
 • Aire Comprimido
+
+
 • Limpia contacto o alcohol isopropílico
+
+
 • Un paquete de cotonetes(isopos)
+
+
 • Un kit de desarmadores compatible con su laptop o PC de escritorio
+
+
 • Pasta Térmica(cualquier marca)
+
+
 • Una toalla pequeña o papel mayordomo(para guardar el residuo de pasta
 térmica)
 
