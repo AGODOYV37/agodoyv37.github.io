@@ -45,15 +45,13 @@ En los siguientes vídeos, se introduce el tema de las maquinas virtuales, así 
 correctamente estas interfaces que nos ayudan a manejar distintos sistemas operativos sin la necesidad de eliminar por completo uno de ellos. Además muestra a detalle los distintos tipos de conexiones que se pueden lograr utilizando un sistema de redes para dos ordenadores. 
 
 ## Como Instalar VirtualBox y Manjaro Gnome
+
 [Ver Vídeo](https://vimeo.com/913167973?share=copy){:target="_blank"}
 
 
 
 ## Como hacer una red de computadores alambrica e inalambrica
 
-{% raw %}
-<iframe width="560" height="315" src="https://youtu.be/sQGZq_xISdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-{% endraw %}
-
+[Ver Vídeo](https://youtu.be/sQGZq_xISdo){:target="_blank"}
 
 
