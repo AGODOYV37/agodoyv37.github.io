@@ -38,3 +38,20 @@ térmica)
 
 ## Trifoliar
 [Ver PDF](https://drive.google.com/file/d/1ANdJUp_t2JuCx4YimUmmhfJB2BiyGyxC/view?usp=sharing){:target="_blank"}
+
+# Informe 2
+
+En los siguientes vídeos, se introduce el tema de las maquinas virtuales, así como las instrucciones para su instalación, y algunos de los errores más comunes para poder llegar a instalar
+correctamente estas interfaces que nos ayudan a manejar distintos sistemas operativos sin la necesidad de eliminar por completo uno de ellos. Además muestra a detalle los distintos tipos de conexiones que se pueden lograr utilizando un sistema de redes para dos ordenadores. 
+
+
+{% raw %}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sQGZq_xISdo&ab_channel=%C3%81ngelAndr%C3%A9sGodoyVald%C3%A9z title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% endraw %}
+
+
+{% raw %}
+<iframe width="560" height="315" src="https://vimeo.com/913167973?share=copy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% endraw %}
+
+
