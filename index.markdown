@@ -55,3 +55,16 @@ correctamente estas interfaces que nos ayudan a manejar distintos sistemas opera
 [Ver Vídeo](https://youtu.be/sQGZq_xISdo){:target="_blank"}
 
 
+# Informe 3
+
+## Ubuntu y el uso de la terminal
+
+En el vasto mundo de los sistemas operativos, Ubuntu destaca como una opción sólida y confiable, respaldada por una comunidad activa y un compromiso con la usabilidad. Este apartado está diseñado para guiarte a través de la instalación de Ubuntu, llevándote paso a paso a través del proceso y proporcionándote las herramientas necesarias para aprovechar al máximo su potencial.
+
+Pero no nos detendremos solo en la instalación; exploraremos a fondo la joya que es la consola de Ubuntu. Desde comandos básicos hasta tareas más avanzadas, este blog te acompañará en tu viaje para dominar la terminal y aprovechar al máximo la potencia y flexibilidad que ofrece.
+
+Si eres nuevo en Ubuntu o simplemente buscas mejorar tus habilidades en la consola, estás en el lugar adecuado. El enlace que proporciono a contunación te dirigirá a al manual con todas las instrucciones necesarias. 
+
+[Manual](https://drive.google.com/file/d/1FG8dO0o-6wJzliCbK24MP-p0fY7d5J3B/view?usp=sharing){:target="_blank"}
+
+
