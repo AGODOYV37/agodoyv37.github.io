@@ -65,6 +65,6 @@ Pero no nos detendremos solo en la instalación; exploraremos a fondo la joya qu
 
 Si eres nuevo en Ubuntu o simplemente buscas mejorar tus habilidades en la consola, estás en el lugar adecuado. El enlace que proporciono a contunación te dirigirá a al manual con todas las instrucciones necesarias. 
 
-[Manual](https://drive.google.com/file/d/1FG8dO0o-6wJzliCbK24MP-p0fY7d5J3B/view?usp=sharing){:target="_blank"}
+[Manual](https://drive.google.com/file/d/1sxx3YZvOME3ht1QDUEqlUF1AmpxlrCMr/view?usp=sharing){:target="_blank"}
 
 
